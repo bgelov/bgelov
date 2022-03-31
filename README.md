@@ -3,8 +3,6 @@
 <!--
 **bgelov/bgelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+**My skills:**  
+- Windows Core Infrastructure (Active Directory, Group Policy, DNS, DHCP and etc.)
+- Powershell (https://github.com/bgelov/powershell) and basic (I think so) scripting experience in other languages such as: Python, CMD, JScript, PHP, JavaScript.
+- Messaging Infrastructure: Microsoft Exchange 2013/2016 on-prem and Exchange Online, Cisco Email Security Appliance (ESA) C300V, Cisco Ironport C380, MDaemon Email Server, MailMarshal, MS Lync/Skype for Business, MS Teams. Microsoft 365 Global Administrator.
+- Other applications such as System Center Configuration Manager (SCCM), MS SQL Server, MySQL, PostgreSQL, IIS, Nginx, HAProxy, 3proxy, JFrog Artifactory and etc.
+- Security paranoid engineer experience: Microsoft Advanced Threat Analytics (ATA), Bloodhound, Sharphound, ManageEngine ADAudit Plus.
+- Experience with Confluence, Jira, Trello, Jive, HPSM, MS TFS, BMC Remedy, Omnitracker...
