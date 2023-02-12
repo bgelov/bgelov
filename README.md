@@ -7,6 +7,6 @@
 - 🔭 ex. System Engineer at CROC
 
 **My profiles:**
-https://www.linkedin.com/in/bgelov/
-https://www.hackerrank.com/belov
-https://www.upwork.com/freelancers/~012c929c5ee17ef239
+- https://www.linkedin.com/in/bgelov/
+- https://www.hackerrank.com/belov
+- https://www.upwork.com/freelancers/~012c929c5ee17ef239
