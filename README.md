@@ -4,7 +4,7 @@
 - 📫 Python, Powershell advanced scripting experience
 - ⚡ Security paranoid engineer experience
 - 🔭 ex. System Engineer Teamlead at Kaspersky
-- 🔭 ex. System Engineer at CROC
+- 🔭 ex. System Engineer at CROC Incorporated
 
 **My profiles:**
 - https://www.linkedin.com/in/bgelov/
