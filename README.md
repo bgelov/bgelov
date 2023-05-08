@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **My skills:**  
-- 📫 Python, Powershell advanced scripting experience
+- 📫 Python, Django, Powershell
 - ⚡ Security paranoid engineer experience
 - 🔭 ex. System Engineer Teamlead at Kaspersky
 - 🔭 ex. System Engineer at CROC Incorporated
