@@ -5,6 +5,11 @@
 - 🔭 ex. System Engineer at CROC Incorporated
 
 **LAST PROJECTS**
-- ⚡ [Python, Django, gunicorn, nginx, GitHub Actions, CI/CD, backups, monitoring]
-- ⚡ [Python, AWS Lambda, Telegram bot API]
-- ⚡ [Powershell, GUI interfaces]
+- [Python, Django, gunicorn, nginx, GitHub Actions, CI/CD, backups, monitoring]
+- [Python, AWS Lambda, Telegram bot API]
+- [Powershell, GUI interfaces]
+
+**STATISTICS**
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgelov&layout=compact)
