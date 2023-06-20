@@ -1,13 +1,9 @@
 **ABOUT**  
+- Engineer with 10+ years of experience in supporting and automating business critical infrastructure and deployments. Led teams of 3 to 10 engineers. I implement safe infrastructure practices, process automation, and healthy collaboration in teams.
 - System Engineering. Automating teamwork. DevOps practices.
 - LinkedIn: https://www.linkedin.com/in/bgelov/
 - 🔭 ex. System Engineer Teamlead at Kaspersky
 - 🔭 ex. System Engineer at CROC Incorporated
-
-**LAST UPWORK PROJECTS**
-- [Python, Django, gunicorn, nginx, GitHub Actions, CI/CD, backups, monitoring]
-- [Python, AWS Lambda, Telegram bot API]
-- [Powershell, GUI interfaces]
 
 **STATISTICS**
 
