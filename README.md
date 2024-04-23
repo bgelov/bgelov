@@ -1,16 +1,14 @@
-**ABOUT**  
-- Engineer with 10+ years of experience in support, deploy and automate business-critical infrastructures and systems. Led teams of 3 to 10 engineers. I implement safe infrastructure practices, process automation, and healthy collaboration in teams.
-- System Engineering. Automating teamwork. DevOps practices.
-- LinkedIn: https://www.linkedin.com/in/bgelov/
-- 🔭 ex. System Engineer Teamlead at Kaspersky
-- 🔭 ex. System Engineer at CROC Incorporated
+I'm a seasoned Engineer with over 10 years of experience in supporting, deploying, and automating business-critical infrastructures and systems. Throughout my career, I've led teams of 3 to 10 engineers, implementing safe infrastructure practices, process automation, and fostering healthy collaboration within teams.
+
+🔭 Experience
+
+- DevOps Engineer at FixParts
+- DevOps Engineer at Freelance
+- System Engineer Teamlead at Kaspersky
+- System Engineer & System Engineer Teamlead at CROC Incorporated
 
 
-**SKILLS**
-- Programming: Python, Powershell, Bash
-
-
-**STATISTICS**
+📊 Statistics
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgelov&layout=compact)
